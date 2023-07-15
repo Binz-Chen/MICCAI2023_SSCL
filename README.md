@@ -18,7 +18,6 @@ To enhance the model's robustness and prevent noisy label memorization, this pap
 ### Download test models to weight:
 ```
 https://pan.baidu.com/s/1Mpe7m3P3soH8FMqshr2F6A?pwd=sscl  Password: sscl 
-
 ```
 
 ### Running the code:
