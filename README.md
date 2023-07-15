@@ -3,6 +3,11 @@
 <img src="./Overview.png" width="600">
 
 
+### Download test models to weight:
+```
+https://pan.baidu.com/s/1Mpe7m3P3soH8FMqshr2F6A?pwd=sscl  Password: sscl 
+
+```
 
 ### Running the code:
 ```
